@@ -6,7 +6,7 @@ function check()
     /**2. Print the variable "input" to the console */
     console.log(input);
 
-    /**3. Use length property to count the characters in the variable "input" (input.lenth) and store it in a variable named "count" */
+    /**3. Use length property to count the characters in the variable "input" (input.length) and store it in a variable named "count" */
     var count= input.length;
 
     /**4. Print the variable "count" to the console */
